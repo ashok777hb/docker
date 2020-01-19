@@ -1,2 +1,2 @@
 # docker
-For testing docker images
+This repo is for testing docker images.
